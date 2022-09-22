@@ -14,3 +14,18 @@ Además de intentar replicar la vista del componente, es necesario cumplir con o
 - Iniciar un control de versiones nuevo en el proyecto.
 - Subir el proyecto a GitHub en un repositorio de tu perfil.
 - Agregar como colaborador al usuario“CanteraSoftware".
+
+## Guia de Estilos
+
+### Colores
+
+- Pale blue: #e0e8ff
+- Bright blue: #3829e0
+- Very pale blue: #f5f7ff
+- Desaturated blue: #7280a7
+- Dark blue: 	#1f2f56
+
+### Typografia
+
+- Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
+- Weights: 500, 700, 900
