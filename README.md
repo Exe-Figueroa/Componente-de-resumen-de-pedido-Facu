@@ -1,4 +1,4 @@
-![](https://i.ibb.co/j3643y4/Logo-2.png)
+![](https://i.ibb.co/HgrD6b6/Logo-4.png)
 
 # Componente de resumen de pedido
 
