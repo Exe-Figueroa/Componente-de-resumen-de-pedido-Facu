@@ -6,8 +6,6 @@ El desafío es desarrollar un componente de tarjeta de resumen de pedido y logra
 
 Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
-En la carpeta "Diseños" tendras las vistas que debas replicar y en la carpeta "Imagenes" los recursos.
-
 Además de intentar replicar la vista del componente, es necesario cumplir con otros objetivos:
 
 - Descargar el repositorio con los archivos del proyecto en tu computadora.
